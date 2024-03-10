@@ -1,0 +1,17 @@
+
+.search-wrapper {
+    text-align: center;
+}
+
+.search-wrapper input {
+    background-color: black;
+    color: white;
+    border-left: none;
+    border-top: none;
+    border-right: none;
+    margin: 50px 0 20px;
+    padding: 20px 30px;
+    font-size: 30px;
+    border-bottom-style: groove;
+    outline: none;
+}
